@@ -1,4 +1,4 @@
-# System Programming Project
+# C Programming Project
 
 ## Project Description
 
